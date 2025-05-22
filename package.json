@@ -1,0 +1,24 @@
+{
+  "name": "quizanime",
+  "version": "1.0.0",
+  "description": "Website tra cứu câu hỏi về hoạt hình 3D Trung Quốc",
+  "main": "quiz.html",
+  "scripts": {
+    "start": "serve",
+    "build": "echo 'No build required'"
+  },
+  "dependencies": {
+    "serve": "^14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/quizanime.git"
+  },
+  "keywords": [
+    "quiz",
+    "anime",
+    "hoathinh3d"
+  ],
+  "author": "HoatHinh3D",
+  "license": "MIT"
+} 
