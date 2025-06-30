@@ -172,12 +172,12 @@ const quizData = {
     "Nhân vật chính trong Ta Có Thể Giác Ngộ Vô Hạn là ai": "Tiêu Vân",
     "Dương Khai trong Võ Luyện Đỉnh Phong song tu với ai đầu tiên?": "Tô Nhan",
     "Tư Mã Ý trong Hỏa Phụng Liêu Nguyên có tự là gì?": "Trọng Đạt",
-    "Lâm Thất Dạ trong phim Trảm Thần gặp phải biến cố gì?": "Bị mù"
-    "Trong Phim Na Tra: Ma Đồng Náo Hải, Cha của Ngao Bính tên là?": "Ngao Quảng"
-    "Nhân vật chính trong Quân Tử Vô Tật là ai?": "Dao Cơ"
-    "Lý Hàn Y trong phim Thiếu Niên Ca Hành sử dụng vũ khí gì?": "Cả 1 và 2"
-    "Thê tử của Điền Bất Dịch trong Tru Tiên là ai?": "Tô Như"
-    "Nam chính trong phim Ta Là Đại Thần Tiên là?": "Thời Giang"
-    "Nhân vật chính trong phim Toàn Chức cao thủ là ai": "Diệp Tu"    
+    "Lâm Thất Dạ trong phim Trảm Thần gặp phải biến cố gì?": "Bị mù",
+    "Trong Phim Na Tra: Ma Đồng Náo Hải, Cha của Ngao Bính tên là?": "Ngao Quảng",
+    "Nhân vật chính trong Quân Tử Vô Tật là ai?": "Dao Cơ",
+    "Lý Hàn Y trong phim Thiếu Niên Ca Hành sử dụng vũ khí gì?": "Cả 1 và 2",
+    "Thê tử của Điền Bất Dịch trong Tru Tiên là ai?": "Tô Như",
+    "Nam chính trong phim Ta Là Đại Thần Tiên là?": "Thời Giang",
+    "Nhân vật chính trong phim Toàn Chức cao thủ là ai": "Diệp Tu",    
     // ... Thêm các câu hỏi khác từ Quizbankfull.txt
 }; 
