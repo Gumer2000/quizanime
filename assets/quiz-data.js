@@ -149,5 +149,35 @@ const quizData = {
       "1 Trong 2 Admin của website HoatHinh3D là ai ? (Biệt danh chính xác ở web)": "Từ Dương",
       "Tỉnh Cửu là nhân vật chính trong bộ phim hoạt hình trung quốc nào sau đây ?": "Đại Đạo Triều Thiên",
       "Tần Nam là nhân vật chính trong bộ hoạt hình trung quốc nào sau đây ?": "Tuyệt Thế Chiến Hồn",
+        "Cổ Hà trong Đấu Phá Thương Khung lúc xuất hiện ở Vân Lam Tông là luyện dược sư mấy phẩm?": "Thất phẩm",
+    "Mục Thần Ký được chuyển thể từ tiểu thuyết của tác giả nào?": "Trạch Trư",
+    "ID game Diệp Tu sử dụng trong phim Toàn Chức Cao Thủ?": "Cả 1 và 2",
+    "Thế giới trong Mục Thần Ký chia thành mấy đại vực chính?": "9",
+    "Vô Tâm trong phim Thiếu Niên Ca Hành còn có tên gọi khác là gì?": "Diệp An Thế",
+    "Trong phim Đại Đạo Triều Thiên, Tỉnh Cửu đã thu nhận ai làm thư đồng?": "Lưu Thập Tuế",
+    "Nhân Vật chính trong phim Trấn Hồn Nhai là?": "Hạ Linh",
+    "Tần Mục trong Mục Thần Ký lớn lên ở đâu?": "Tàn Lão Thôn",
+    "Nam chính của phim Đô Thị Cổ Y Tiên là?": "Diệp Bất Phàm",
+    "Vương Lâm trong Tiên Nghịch ở đâu có Tiên Ngọc đột phá Anh Biến?": "Đi cướp",
+    "Trong Kiếm Lai, Khi Man Châu Động Thiên đứng trước nguy cơ bị hủy diệt, là ai đã đứng ra bảo vệ người dân trong trấn?": "Tề Tĩnh Xuân",
+    "Nhân vật chính trong phim Sư Huynh a Sư Huynh là ai?": "Lý Trường Thọ",
+    "Nhân vật chính trong phim Tần Thời Minh Nguyệt?": "Kinh Thiên Minh",
+    "Chu Tước Thánh Sứ trong Tru Tiên Là Ai?": "U Cơ",
+    "Trong phim Đại Đạo Triều Thiên, Tỉnh Cửu đã cùng thư đồng đến đâu tu luyện?": "Thanh Sơn Tông",
+    "Cô Kiếm Tiên trong phim Thiếu Niên Ca Hành là ai?": "Lạc Thanh Dương",
+    "Bạch Nguyệt Khôi còn có tên gọi khác là gì?": "Bà chủ Bạch",
+    "Trong phim Đại Đạo Triều Thiên, Triệu Lạp Nguyệt đến từ phong nào?": "Thần Mạt Phong",
+    "Ai là chủ nhân của Thôn Thôn trong Nguyên Tôn?": "Yêu Yêu",
+    "Nam chính trong phim Sơn Hà Kiếm Tâm là ai?": "Yến Vô Sư",
+    "Nhân vật chính trong Ta Có Thể Giác Ngộ Vô Hạn là ai": "Tiêu Vân",
+    "Dương Khai trong Võ Luyện Đỉnh Phong song tu với ai đầu tiên?": "Tô Nhan",
+    "Tư Mã Ý trong Hỏa Phụng Liêu Nguyên có tự là gì?": "Trọng Đạt",
+    "Lâm Thất Dạ trong phim Trảm Thần gặp phải biến cố gì?": "Bị mù"
+    "Trong Phim Na Tra: Ma Đồng Náo Hải, Cha của Ngao Bính tên là?": "Ngao Quảng"
+    "Nhân vật chính trong Quân Tử Vô Tật là ai?": "Dao Cơ"
+    "Lý Hàn Y trong phim Thiếu Niên Ca Hành sử dụng vũ khí gì?": "Cả 1 và 2"
+    "Thê tử của Điền Bất Dịch trong Tru Tiên là ai?": "Tô Như"
+    "Nam chính trong phim Ta Là Đại Thần Tiên là?": "Thời Giang"
+    "Nhân vật chính trong phim Toàn Chức cao thủ là ai": "Diệp Tu"    
     // ... Thêm các câu hỏi khác từ Quizbankfull.txt
 }; 
