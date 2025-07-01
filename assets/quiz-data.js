@@ -169,7 +169,6 @@ const quizData = {
     "Trong phim Đại Đạo Triều Thiên, Triệu Lạp Nguyệt đến từ phong nào?": "Thần Mạt Phong",
     "Ai là chủ nhân của Thôn Thôn trong Nguyên Tôn?": "Yêu Yêu",
     "Nam chính trong phim Sơn Hà Kiếm Tâm là ai?": "Yến Vô Sư",
-    "Nhân vật chính trong Ta Có Thể Giác Ngộ Vô Hạn là ai": "Tiêu Vân",
     "Dương Khai trong Võ Luyện Đỉnh Phong song tu với ai đầu tiên?": "Tô Nhan",
     "Tư Mã Ý trong Hỏa Phụng Liêu Nguyên có tự là gì?": "Trọng Đạt",
     "Lâm Thất Dạ trong phim Trảm Thần gặp phải biến cố gì?": "Bị mù",
