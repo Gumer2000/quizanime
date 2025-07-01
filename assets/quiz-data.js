@@ -191,5 +191,6 @@ const quizData = {
     "Trong phim Vạn Cổ Tối Cường Tông, Quân Thường Tiếu chiêu mộ ai lam đệ tử đầu tiên?": "Lục Thiên Thiên",
     "Liễu Thất Nguyệt trong Thương Nguyên Đồ sử dụng vũ khí gì ?": "Cung",
     "Nhân vật chính trong phim Vạn Giới Tiên Tung là ai?": "Diệp Tinh Vân",
+    "Sư tỷ của Nguyên Dao trong Phàm Nhân Tu Tiên tên là gì?": "Nghiên Lệ",
     // ... Thêm các câu hỏi khác từ Quizbankfull.txt
 }; 
