@@ -184,5 +184,12 @@ const quizData = {
     "Sở Phong trong Tu La Võ Thần có Huyết Mạch gì?": "Thiên Lôi",
     "Nhân vật chính trong phim Duy ngã độc thần là ai?": "Ninh Thần",
     "Trong các bộ phim sau, bộ nào nhân vật chính có hệ thống?": "Ta Có Thể Giác Ngộ Vô Hạn",
+    "Ôn Thiên Nhân trong Phàm Nhân Tu Tiên tu luyện công pháp gì?": "Lục Cực Chân Ma Công",
+    "Phong Hi trong Phàm Nhân Tu Tiên là yêu thú nào?": "Liệt Phong Thú",
+    "Ai sau đây làm lễ cưới với Lý Mộ Uyển trong Tiên Nghịch thì bị anh Lâm giết ?": "Tôn Chấn Vĩ",
+    "Tam Thánh Niết là biệt danh của ai trong Họa Giang Hồ Chi Bất Lương Nhân?": "Lý Tinh Vân",
+    "Trong phim Vạn Cổ Tối Cường Tông, Quân Thường Tiếu chiêu mộ ai lam đệ tử đầu tiên?": "Lục Thiên Thiên",
+    "Liễu Thất Nguyệt trong Thương Nguyên Đồ sử dụng vũ khí gì ?": "Cung",
+    "Nhân vật chính trong phim Vạn Giới Tiên Tung là ai?": "Diệp Tinh Vân",
     // ... Thêm các câu hỏi khác từ Quizbankfull.txt
 }; 
