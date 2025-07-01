@@ -149,7 +149,7 @@ const quizData = {
       "1 Trong 2 Admin của website HoatHinh3D là ai ? (Biệt danh chính xác ở web)": "Từ Dương",
       "Tỉnh Cửu là nhân vật chính trong bộ phim hoạt hình trung quốc nào sau đây ?": "Đại Đạo Triều Thiên",
       "Tần Nam là nhân vật chính trong bộ hoạt hình trung quốc nào sau đây ?": "Tuyệt Thế Chiến Hồn",
-        "Cổ Hà trong Đấu Phá Thương Khung lúc xuất hiện ở Vân Lam Tông là luyện dược sư mấy phẩm?": "Thất phẩm",
+        "Cổ Hà trong Đấu Phá Thương Khung lúc xuất hiện ở Vân Lam Tông là luyện dược sư mấy phẩm?": "Lục phẩm",
     "Mục Thần Ký được chuyển thể từ tiểu thuyết của tác giả nào?": "Trạch Trư",
     "ID game Diệp Tu sử dụng trong phim Toàn Chức Cao Thủ?": "Cả 1 và 2",
     "Thế giới trong Mục Thần Ký chia thành mấy đại vực chính?": "9",
@@ -178,6 +178,11 @@ const quizData = {
     "Lý Hàn Y trong phim Thiếu Niên Ca Hành sử dụng vũ khí gì?": "Cả 1 và 2",
     "Thê tử của Điền Bất Dịch trong Tru Tiên là ai?": "Tô Như",
     "Nam chính trong phim Ta Là Đại Thần Tiên là?": "Thời Giang",
-    "Nhân vật chính trong phim Toàn Chức cao thủ là ai": "Diệp Tu",    
+    "Nhân vật chính trong phim Toàn Chức cao thủ là ai": "Diệp Tu",
+    "Ai là sư phụ của Diệp Phàm trong Già Thiên?": "Lý Nhược Ngu",
+    "Bộ phim Thiên Bảo Phục Yêu Lục lấy bối cảnh thời kỳ nào??": "Đường",
+    "Nhân vật chính trong phim Vạn Giới Tiên Tung là ai?": "Diệp Tinh Vân",
+    "Trong Na Tra: Ma Đồng Giáng Thế, Na Tra được sinh ra từ gì?": "Ma Hoàn",
+    "Sở Phong trong Tu La Võ Thần có Huyết Mạch gì?": "Thiên Lôi",
     // ... Thêm các câu hỏi khác từ Quizbankfull.txt
 }; 
