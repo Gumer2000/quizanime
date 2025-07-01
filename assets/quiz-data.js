@@ -142,7 +142,7 @@ const quizData = {
       "Mục đích chính tu luyện của Tần Vũ trong Tinh Thần Biến là gì ??": "Vì muốn được cưới Khương Lập",
       "Trong Đấu Phá Thương Khung, Tiêu Viêm hơn Cổ Hà ở điểm gì ?": "Dị Hỏa",
       "Tại sao Hàn Lập khi gặp Phong Hi không chạy mà ở lại giúp đỡ chế tạo Phong Lôi Sí ?": "Vì đánh không lại.",
-      "Nhân vật chính trong Ta Có Thể Giác Ngộ Vô Hạn là ai ?": "Tiêu Vân",
+      "Nhân vật chính trong Ta Có Thể Giác Ngộ Vô Hạn là ai?": "Tiêu Vân",
       "Nhân vật chính trong Đấu Chiến Thiên Hạ là ai ?": "Đại Phong",
       "Nhân vật chính trong Quân Tử Vô Tật là ai ?": "Dao Cơ",
       "Nhân vật chính trong Man Hoang Tiên Giới là ai ?": "Lục Hàng Chi",
