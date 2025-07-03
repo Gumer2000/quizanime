@@ -196,6 +196,6 @@ const quizData = {
     "Con gái của quỷ vương trong Tru Tiên tên là gì?": "Bích Dao",
     "Gia gia Thạch Hạo trong phim Thế Giới Hoàn Mỹ tên gì?": "Thạch Trung Thiên"
     "Phong Hi trong Phàm Nhân Tu Tiên là yêu thú cấp mấy ?": "9",
-    "Trong Đấu Phá Thương Khung, khi Vân Lam Tông giải tán thì Vân Vận đã gia nhập tông phái nào ?": "Hoa Tông"
+    "Trong Đấu Phá Thương Khung, khi Vân Lam Tông giải tán thì Vân Vận đã gia nhập tông phái nào ?": "Hoa Tông",
     // ... Thêm các câu hỏi khác
 }; 
