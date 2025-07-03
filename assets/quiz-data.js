@@ -194,5 +194,7 @@ const quizData = {
     "Sư tỷ của Nguyên Dao trong Phàm Nhân Tu Tiên tên là gì?": "Nghiên Lệ",
     "Phong Hi trong Phàm Nhân Tu Tiên tại sao được gọi là Đại Thiện Nhân ?": "Cả 1 và 2",
     "Con gái của quỷ vương trong Tru Tiên tên là gì?": "Bích Dao",
+    "Gia gia Thạch Hạo trong phim Thế Giới Hoàn Mỹ tên gì?": "Thạch Trung Thiên"
+    "Phong Hi trong Phàm Nhân Tu Tiên là yêu thú cấp mấy ?": "9",
     // ... Thêm các câu hỏi khác từ Quizbankfull.txt
 }; 
