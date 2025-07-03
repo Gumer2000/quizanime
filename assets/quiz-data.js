@@ -192,5 +192,7 @@ const quizData = {
     "Liễu Thất Nguyệt trong Thương Nguyên Đồ sử dụng vũ khí gì ?": "Cung",
     "Nhân vật chính trong phim Vạn Giới Tiên Tung là ai?": "Diệp Tinh Vân",
     "Sư tỷ của Nguyên Dao trong Phàm Nhân Tu Tiên tên là gì?": "Nghiên Lệ",
+    "Phong Hi trong Phàm Nhân Tu Tiên tại sao được gọi là Đại Thiện Nhân ?": "Cả 1 và 2",
+    "Con gái của quỷ vương trong Tru Tiên tên là gì?": "Bích Dao",
     // ... Thêm các câu hỏi khác từ Quizbankfull.txt
 }; 
